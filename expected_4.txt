@@ -1,0 +1,11 @@
+The Sirs are: A B C D E F G H J
+There is a unique solution:
+Sir A is a Knave.
+Sir B is a Knight.
+Sir C is a Knight.
+Sir D is a Knight.
+Sir E is a Knave.
+Sir F is a Knave.
+Sir G is a Knave.
+Sir H is a Knight.
+Sir J is a Knight.
