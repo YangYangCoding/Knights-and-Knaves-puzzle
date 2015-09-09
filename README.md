@@ -1,5 +1,8 @@
 solve.c is the solution code of this assignment, it is written by YangYang(me), please read the lisence before you download it or use it. There are some test files, you can test solve.c by using these test files.
 
+test?.txt files are the files you are going to use to test,
+expected_?.txt files are the output answers, you can look at your answers and compare yours with the expected_?.txt answers. 
+
 
 Assignment
 
