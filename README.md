@@ -1,3 +1,6 @@
+solve.c is the solution code of this assignment, it is written by YangYang(me), please read the lisence before you download it or use it. There are some test files, you can test solve.c by using these test files.
+
+
 Assignment
 
 1 Aim of assignment and general description
